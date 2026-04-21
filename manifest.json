@@ -1,0 +1,29 @@
+{
+  "name": "Papoutsis Digital — Web Development & Hosting",
+  "short_name": "Papoutsis Digital",
+  "description": "Επαγγελματικές υπηρεσίες Web Development, Web Hosting, SEO και Digital Marketing.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#030712",
+  "theme_color": "#030712",
+  "orientation": "portrait-primary",
+  "lang": "el",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
